@@ -88,6 +88,8 @@
 
 ### 快应用生态篇
 
+* ✨[快应用包管理平台](https://rpk.quickapp.cn/)
+* ✨[快应用生态物料平台](https://material.quickapp.cn/)
 * [快统计 - 轻粒子](http://www.qinglizi.cn/): <sub>专注于快应用数据统计分析；数据监控；渠道识别；人群分析；事件/转化漏斗；</sub>
 * [友盟快应用统计 SDK 集成文档](https://developer.umeng.com/docs/84810/detail/84811): <sub>接入友盟快应用统计 SDK，可以在U-App官网中查看应用新增用户、活跃用户、启动次数、使用时长等基本数据。</sub>
 * [快应用入口合集](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=552&fromuid=139)：<sub>各大厂商快应用入口汇总说明</sub>
@@ -126,6 +128,7 @@
 #### 工具篇
 
 * [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>简单易用 灵活扩展 全面支持联盟标准规范</sub>
+* ✨[微信小程序转快应用工具](https://qapp-chimera.vivo.com.cn/index.html)
 * [快应用在线编辑器](https://editor.quickapp.cn/?utm_source=awesome-quickapp): <sub>在线编辑，实时预览，支持手机真机查看</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
