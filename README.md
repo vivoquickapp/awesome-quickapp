@@ -8,26 +8,6 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/node-%3E%3D%208.0.0-green.svg" alt="node version">
-  </a>
-  <a href="https://quickapp.vivo.com.cn/">
-   <img src="https://img.shields.io/badge/chat-on%20blog-brightgreen.svg" alt="Chat On My Blog">
-  </a>
-  <a href="https://www.v2ex.com/t/522962">
-   <img src="https://img.shields.io/badge/chat-on%20v2ex-brightgreen.svg" alt="Chat On V2ex">
-  </a>
-  <a href="https://hacpai.com/article/1546355514338">
-   <img src="https://img.shields.io/badge/chat-on%20hacpai-brightgreen.svg" alt="Chat On Hacpai">
-  </a>
-  <a href="https://quickapp.vivo.com.cn/?utm_source=github-awesome-quickapp">
-    <img src="https://img.shields.io/badge/Author-nicejade-%23a696c8.svg" alt="Author nicejade">
-  </a>
-</div>
-
-<br>
-
 **[快应用](https://www.quickapp.cn/?utm_source=nicelinks.site)是基于手机硬件平台的新型应用形态，标准是由主流手机厂商组成的`快应用联盟`联合制定。其标准的诞生将在研发接口、能力接入、开发者服务等层面建设标准平台，以平台化的生态模式对个人开发者和企业开发者全品类开放。[快应用](https://www.quickapp.cn/?utm_source=nicelinks.site)具备传统 APP 完整的应用体验，`无需安装、即点即用`；`覆盖 10 亿设备`，`与操作系统深度集成，探索新型应用场景`。快应用 ──**复杂生活的简单答案，让生活更顺畅**。
 
 ---
@@ -58,6 +38,7 @@
 ### 基础教程篇
 
 #### 快应用文档
+
 * [快应用官方网站](https://www.quickapp.cn/)
 * [快应用开发论坛](https://bbs.quickapp.cn/)
 * [快应用开发文档](https://doc.quickapp.cn/)
@@ -88,8 +69,8 @@
 
 ### 快应用生态篇
 
-* ✨[快应用包管理平台](https://rpk.quickapp.cn/)
-* ✨[快应用生态物料平台](https://material.quickapp.cn/)
+* ✨[快应用包管理平台](https://rpk.quickapp.cn/)：<sub>是由官方出品，提供给用户管理快应用项目版本的工具；其目的在于：解决项目迭代中协作不便的问题。</sub>
+* ✨[快应用生态物料平台](https://material.quickapp.cn/)： <sub>官方提供的物料管理平台，您可以在此上传或下载各种资源；如 SDK、IDE 插件、开源工具库、脚手架等等。</sub>
 * [快统计 - 轻粒子](http://www.qinglizi.cn/): <sub>专注于快应用数据统计分析；数据监控；渠道识别；人群分析；事件/转化漏斗；</sub>
 * [友盟快应用统计 SDK 集成文档](https://developer.umeng.com/docs/84810/detail/84811): <sub>接入友盟快应用统计 SDK，可以在U-App官网中查看应用新增用户、活跃用户、启动次数、使用时长等基本数据。</sub>
 * [快应用入口合集](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=552&fromuid=139)：<sub>各大厂商快应用入口汇总说明</sub>
@@ -128,7 +109,7 @@
 #### 工具篇
 
 * [快应用官方 IDE](https://www.quickapp.cn/docCenter/IDEPublicity): <sub>简单易用 灵活扩展 全面支持联盟标准规范</sub>
-* ✨[微信小程序转快应用工具](https://qapp-chimera.vivo.com.cn/index.html)：<sub>可一键转化微信小程序为快应用，让您无须为重复开发而烦恼。</sub> 
+* ✨[微信小程序转快应用工具](https://qapp-chimera.vivo.com.cn/index.html)：<sub>可一键转化微信小程序为快应用，让您无须为重复开发而烦恼。</sub>
 * [快应用在线编辑器](https://editor.quickapp.cn/?utm_source=awesome-quickapp): <sub>在线编辑，实时预览，支持手机真机查看</sub>
 * [vue-hap-tools](https://github.com/Youjingyu/vue-hap-tools): <sub>一个抹平 vue.js 与快应用差异性的工具，现已支持vue.js的大部分常用特性、vue-router、vuex。</sub>
 * [deepkolos/hap-types](https://github.com/deepkolos/hap-types): <sub>快应用接口定义文档转的 d.ts 定义包，用在 TS 编写快应用时，编辑器可给出提示</sub>
@@ -145,7 +126,7 @@
 
 当您的手机系统尚未内置快应用运行平台，或您想在开发过程中体验快应用尚未正式发布的新功能、新特性，您可以安装 快应用预览版。这是一个包含了快应用基础功能的 `Android` 应用程序。下载安装成功后，通过快应用调试器可以选择在快应用预览版运行 rpk 包，开发测试对应平台的 `api` 和功能。
 
-- [快应用预览版 v1008](https://statres.quickapp.cn/quickapp/quickapptool/release/platform/quickapp_platform_preview_release_v1080.apk)
+- [快应用预览版 v1080](https://statres.quickapp.cn/quickapp/quickapptool/release/platform/quickapp_platform_preview_release_v1080.apk)
 - [快应用预览版 v1070](https://statres.quickapp.cn/quickapp/quickapptool/release/platform/quickapp_platform_preview_release_v1070.apk)
 - [快应用预览版 v1060](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1060.apk?raw=true)
 - [快应用预览版 v1050](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1050.apk?raw=true)
@@ -155,7 +136,7 @@
 - [快应用预览版 v1010](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1010.apk?raw=true)
 - [快应用预览版 v1000](https://github.com/nicejade/awesome-quickapp/blob/master/resources/quickapp_platform_preview_release_v1000.apk?raw=true)
 
->**注意**：如果您之前已经安装过较高版本的快应用预览版，则安装低版本时，需要先卸载之前的预览版。
+> **注意**：如果您之前已经安装过较高版本的快应用预览版，则安装低版本时，需要先卸载之前的预览版。
 
 ### 应用分发
 
@@ -192,3 +173,4 @@
 * [小米 | 快应用审核规范](https://bbs.quickapp.cn/forum.php?mod=viewthread&tid=428)
 * [魅族 | 快应用审核规范](https://miniapp.meizu.com/resources/document/complaint.html)
 * [联想 | 快应用审核规范](http://open.lenovo.com/sdk/%E5%BF%AB%E5%BA%94%E7%94%A8%E5%8F%91%E5%B8%83-2/)
+  
